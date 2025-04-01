@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mingyuan Zhang / Site Title"
+title                    : "Mingyuan Zhang"
 title_separator          : "-"
 name                     : &name "Mingyuan Zhang"
 description              : &description "personal description"
