@@ -22,9 +22,9 @@ repository               : "KKHYA/Mingyuan-Zhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Mingyuan Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Boston, MA"
   employer         : "Northeastern University"
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=6NA4sjEAAAAJ
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Mingyuan Zhang"
+  linkedin         : "mingyuan-zhang-352447271"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
