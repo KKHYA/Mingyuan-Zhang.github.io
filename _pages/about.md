@@ -20,14 +20,17 @@ News
 
 Working Experience
 ======
-- AInnovationLabs, Remote
+- **AInnovationLabs, Remote**
+  
   **Applied Scientist Intern**, Oct. 2022 - Dec. 2024
+  
   **Project**: 3D Human Pose Estimation, Sleep Monitoring, Human ReID
 
 Professional Service
 ======
 - Conference Reviewer
+  
   ACMMM 2024, AAAI 2025, UAI 2025
 
 - Journal Reviewer
-  ACM Transactions on Knowledge Discovery from Data (TKDD)
+  - ACM Transactions on Knowledge Discovery from Data (TKDD)
