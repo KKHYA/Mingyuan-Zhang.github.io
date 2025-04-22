@@ -16,4 +16,18 @@ News
 - 03/2025: Publish our paper [Boosting Large Language Models with Mask Fine-Tuning](https://arxiv.org/abs/2503.22764) on arXiv.
 - 12/2024: Pass my Ph.D. QE and becaome a Ph.D candidate.
 - 09/2023: Join SMILELab at NEU as a Ph.D. student advised by Prof. Yun Raymond Fu.
-- 10/2022: Start my Applied Scientist Intern at AinnovationLabs mentored by Prof. Yun Raymond Fu.
+- 10/2022: Start my Applied Scientist Intern at AinnovationLabs.
+
+Working Experience
+======
+- AInnovationLabs, Remote
+  **Applied Scientist Intern**, Oct. 2022 - Dec. 2024
+  **Project**: 3D Human Pose Estimation, Sleep Monitoring, Human ReID
+
+Professional Service
+======
+- Conference Reviewer
+  ACMMM 2024, AAAI 2025, UAI 2025
+
+- Journal Reviewer
+  ACM Transactions on Knowledge Discovery from Data (TKDD)
