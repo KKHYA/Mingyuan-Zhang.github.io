@@ -41,10 +41,8 @@ Contact
 
 🌍 Visitor Map
 ======
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://clustrmaps.com/site/1c5nj" title="ClustrMaps" style="max-width: 1000px; width: 100%;">
-    <img src="https://www.clustrmaps.com/map_v2.png?d=my0X9XIC6PWfAjyxjrZbhwC3lpkrvsbY9-LYNKmDlew&cl=ffffff"
-         alt="Visitor Map"
-         style="width: 100%; height: auto; display: block;" />
+<p align="center">
+  <a href="https://clustrmaps.com/site/1c5nj" title="ClustrMaps">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=my0X9XIC6PWfAjyxjrZbhwC3lpkrvsbY9-LYNKmDlew&cl=ffffff" alt="Visitor Map" />
   </a>
-</div>
+</p>
