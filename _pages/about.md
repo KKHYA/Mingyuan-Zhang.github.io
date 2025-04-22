@@ -13,7 +13,7 @@ My research interests lie at the intersection of **Computer Vision, Sparse Netwo
 
 News
 ======
-- `03/2025`: Publish our paper [Boosting Large Language Models with Mask Fine-Tuning](https://arxiv.org/abs/2503.22764) on arXiv.
-- `12/2024`: Pass my Ph.D. QE and becaome a Ph.D candidate.
-- `09/2023`: Join SMILELab at NEU as a Ph.D. student advised by Prof. Yun Raymond Fu.
-- `10/2022`: Start my Applied Scientist Intern at AinnovationLabs mentored by Prof. Yun Raymond Fu.
+- 03/2025: Publish our paper [Boosting Large Language Models with Mask Fine-Tuning](https://arxiv.org/abs/2503.22764) on arXiv.
+- 12/2024: Pass my Ph.D. QE and becaome a Ph.D candidate.
+- 09/2023: Join SMILELab at NEU as a Ph.D. student advised by Prof. Yun Raymond Fu.
+- 10/2022: Start my Applied Scientist Intern at AinnovationLabs mentored by Prof. Yun Raymond Fu.
