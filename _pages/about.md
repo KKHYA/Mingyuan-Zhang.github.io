@@ -28,7 +28,7 @@ News
 
 Publications
 ======
-<img align="left" width="30%" src="/images/MFT_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
+<img align="left" width="30%" src="images/MFT_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
 
 **Boosting Large Language Models with Mask Fine-Tuning**
 
@@ -41,7 +41,7 @@ Publications
 
 <br/><br/>
 
-<img align="left" width="30%" src="/images/LST-GAN_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
+<img align="left" width="30%" src="https://github.com/KKHYA/Mingyuan-Zhang.github.io/blob/master/images/LST-GAN_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
 
 **LST-GAN: Latent Spatio-Temporal Generative Adversarial Networks for Missing-View 3D Human Pose Estimation**
 
