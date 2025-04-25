@@ -17,15 +17,10 @@ My research interests lie at the intersection of **Computer Vision, Sparse Netwo
 
 News
 ======
-
-<div style="max-height: 180px; overflow-y: auto; padding: 8px; border: 1px solid #ddd;">
-
 - **03/2025**: Publish our paper [Boosting Large Language Models with Mask Fine-Tuning](https://arxiv.org/abs/2503.22764) on arXiv.  
 - **12/2024**: Pass my Ph.D. QE and become a Ph.D. candidate.  
 - **09/2023**: Join SMILELab at NEU as a Ph.D. student advised by Prof. Yun Raymond Fu.  
 - **10/2022**: Start my Applied Scientist Intern at AinnovationLabs.  
-
-</div>
 
 
 
@@ -103,8 +98,4 @@ Contact
 
 🌍 Visitor Map
 ======
-<p align="center">
-  <a href="https://clustrmaps.com/site/1c5nj" title="ClustrMaps">
-    <img src="https://www.clustrmaps.com/map_v2.png?d=my0X9XIC6PWfAjyxjrZbhwC3lpkrvsbY9-LYNKmDlew&cl=ffffff" alt="Visitor Map" />
-  </a>
-</p>
+
