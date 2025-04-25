@@ -15,7 +15,7 @@ My research interests lie at the intersection of **Computer Vision, Sparse Netwo
 
 News
 ======
-<div style="border: 1px solid #eee; border-radius: 5px; height: 300px; overflow-y: auto; padding: 15px; background-color: #f9f9f9;">
+<div style="border: 1px solid #eee; border-radius: 5px; height: 300px; overflow-y: auto; padding: 15px;">
   <ul style="padding-left: 20px; margin-top: 10px;">
     <li><strong>03/2025</strong>: Publish our paper <a href="https://arxiv.org/abs/2503.22764">Boosting Large Language Models with Mask Fine-Tuning</a> on arXiv.</li>
     <li><strong>12/2024</strong>: Pass my Ph.D. QE and become a Ph.D. candidate.</li>
