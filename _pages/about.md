@@ -11,55 +11,72 @@ I am a second-year Ph.D. candidate in the [SMILELab](https://fulab.sites.northea
 
 My research interests lie at the intersection of **Computer Vision, Sparse Network, Large Language Models (LLMs), and Multimodal Learning**. I am passionate about building scalable and interpretable AI systems, and I am always open to collaboration.
 
-
-
 <br/><br/>
 
 News
 ======
-- **03/2025**: Publish our paper [Boosting Large Language Models with Mask Fine-Tuning](https://arxiv.org/abs/2503.22764) on arXiv.  
-- **12/2024**: Pass my Ph.D. QE and become a Ph.D. candidate.  
-- **09/2023**: Join SMILELab at NEU as a Ph.D. student advised by Prof. Yun Raymond Fu.  
-- **10/2022**: Start my Applied Scientist Intern at AinnovationLabs.  
-
-
+<div style="border: 1px solid #eee; border-radius: 5px; height: 300px; overflow-y: auto; padding: 15px; background-color: #f9f9f9;">
+  <ul style="padding-left: 20px; margin-top: 10px;">
+    <li><strong>03/2025</strong>: Publish our paper <a href="https://arxiv.org/abs/2503.22764">Boosting Large Language Models with Mask Fine-Tuning</a> on arXiv.</li>
+    <li><strong>12/2024</strong>: Pass my Ph.D. QE and become a Ph.D. candidate.</li>
+    <li><strong>09/2023</strong>: Join SMILELab at NEU as a Ph.D. student advised by Prof. Yun Raymond Fu.</li>
+    <li><strong>10/2022</strong>: Start my Applied Scientist Intern at AinnovationLabs.</li>
+  </ul>
+</div>
 
 <br/><br/>
 
 Publications
 ======
-<img align="left" width="30%" src="images/MFT_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
+<table style="border: none; width: 100%; margin-bottom: 30px;">
+<tr>
+  <td style="width: 30%; vertical-align: top; border: none; padding-right: 20px;">
+    <img src="images/MFT_Teasor.png" style="width: 100%; margin-top: 0;">
+  </td>
+  <td style="vertical-align: top; border: none; padding-top: 0;">
+    <h3 style="margin-top: 0;">Boosting Large Language Models with Mask Fine-Tuning</h3>
+    <p>
+      <strong><em>Mingyuan Zhang</em></strong>*, Yue Bai*, Huan Wang, Yizhou Wang, Qihua Dong, and Yun Fu
+    </p>
+    <p><em>On Submission</em>, ICML 2025</p>
+    <p>
+      <a href="https://arxiv.org/abs/2503.22764" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none; margin-right: 10px;">PAPER</a>
+      <a href="https://github.com/Ming-K9/MFT" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none;">CODE</a>
+    </p>
+  </td>
+</tr>
+</table>
 
-**Boosting Large Language Models with Mask Fine-Tuning**
+<table style="border: none; width: 100%; margin-bottom: 30px;">
+<tr>
+  <td style="width: 30%; vertical-align: top; border: none; padding-right: 20px;">
+    <img src="images/LST-GAN_Teasor.png" style="width: 100%; margin-top: 0;">
+  </td>
+  <td style="vertical-align: top; border: none; padding-top: 0;">
+    <h3 style="margin-top: 0;">LST-GAN: Latent Spatio-Temporal Generative Adversarial Networks for Missing-View 3D Human Pose Estimation</h3>
+    <p>
+      <strong><em>Mingyuan Zhang</em></strong>, 
+      Yue Bai, Yi Xu, Chang Liu, and Yun Fu
+    </p>
+    <p><em>On Submission</em>, ACMMM 2025</p>
+  </td>
+</tr>
+</table>
 
-[**Mingyuan Zhang**](#)\*, Yue Bai\*, Huan Wang, Yizhou Wang, Qihua Dong, and Yun Fu
-
-*On Submission*, ICML 2025
-
-[![PAPER](https://img.shields.io/static/v1?label=&message=PAPER&color=fff&labelColor=000&style=flat-square)](https://arxiv.org/abs/2503.22764)
-[![CODE](https://img.shields.io/static/v1?label=&message=CODE&color=fff&labelColor=000&style=flat-square)](https://github.com/Ming-K9/MFT)
-
-<br/><br/>
-
-<img align="left" width="30%" src="images/LST-GAN_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
-
-**LST-GAN: Latent Spatio-Temporal Generative Adversarial Networks for Missing-View 3D Human Pose Estimation**
-
-[**Mingyuan Zhang**](#), Yue Bai, Yi Xu, Chang Liu, and Yun Fu
-
-*On Submission*, ACMMM 2025
-
-<br/><br/>
-
-<img align="left" width="30%" src="images/CNTP_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
-
-**Cautious Next Token Prediction**
-
-Yizhou Wang, Lingzhi Zhang, Yue Bai, Mang Tik Chiu, Zhengmian Hu, [**Mingyuan Zhang**](#), Qihua Dong, Yu Yin, Sohrab Amirghodsi, Yun Fu
-
-*On Submission*, ACL 2025
-
-
+<table style="border: none; width: 100%; margin-bottom: 30px;">
+<tr>
+  <td style="width: 30%; vertical-align: top; border: none; padding-right: 20px;">
+    <img src="images/CNTP_Teasor.png" style="width: 100%; margin-top: 0;">
+  </td>
+  <td style="vertical-align: top; border: none; padding-top: 0;">
+    <h3 style="margin-top: 0;">Cautious Next Token Prediction</h3>
+    <p>
+      Yizhou Wang, Lingzhi Zhang, Yue Bai, Mang Tik Chiu, Zhengmian Hu, <strong><em>Mingyuan Zhang</em></strong>, Qihua Dong, Yu Yin, Sohrab Amirghodsi, Yun Fu
+    </p>
+    <p><em>On Submission</em>, ACL 2025</p>
+  </td>
+</tr>
+</table>
 
 <br/><br/>
 
@@ -70,8 +87,6 @@ Working Experience
   **Applied Scientist Intern**, Oct. 2022 - Dec. 2024
   
   **Project**: 3D Human Pose Estimation, Sleep Monitoring, Human ReID
-
-
 
 <br/><br/>
 
@@ -84,17 +99,18 @@ Professional Service
 - **Journal Reviewer**
   - ACM Transactions on Knowledge Discovery from Data (TKDD)
 
-
-
 <br/><br/>
 
 Contact
 ======
 - **WeChat ID**: Ming-Z_999
 
-
-
 <br/><br/>
 
 🌍 Visitor Map
 ======
+<p align="center">
+  <a href='https://clustrmaps.com/site/1c5nj'  title='Visit tracker'>
+    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=my0X9XIC6PWfAjyxjrZbhwC3lpkrvsbY9-LYNKmDlew'/>
+  </a>
+</p>
