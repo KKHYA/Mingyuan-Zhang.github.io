@@ -41,7 +41,7 @@ Publications
 
 <br/><br/>
 
-<img align="left" width="30%" src="https://github.com/KKHYA/Mingyuan-Zhang.github.io/blob/master/images/LST-GAN_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
+<img align="left" width="30%" src="images/LST-GAN_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
 
 **LST-GAN: Latent Spatio-Temporal Generative Adversarial Networks for Missing-View 3D Human Pose Estimation**
 
@@ -51,7 +51,7 @@ Publications
 
 <br/><br/>
 
-<img align="left" width="30%" src="/images/CNTP_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
+<img align="left" width="30%" src="images/CNTP_Teasor.png" style="margin-right: 20px; margin-bottom: 10px;">
 
 **Cautious Next Token Prediction**
 
@@ -98,4 +98,3 @@ Contact
 
 🌍 Visitor Map
 ======
-
