@@ -38,7 +38,7 @@ Publications
     <p>
       <strong><em>Mingyuan Zhang</em></strong>*, Yue Bai*, Huan Wang, Yizhou Wang, Qihua Dong, and Yun Fu
     </p>
-    <p><em>On Submission</em>, ICML 2025</p>
+    <p><em>On Submission</em>, NeurIPS 2025</p>
     <p>
       <a href="https://arxiv.org/abs/2503.22764" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none; margin-right: 10px;">PAPER</a>
       <a href="https://github.com/Ming-K9/MFT" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none;">CODE</a>
