@@ -38,7 +38,7 @@ Publications
     <p>
       <strong><em>Mingyuan Zhang</em></strong>*, Yue Bai*, Huan Wang, Yizhou Wang, Qihua Dong, and Yun Fu
     </p>
-    <p><em>On Submission</em>, NeurIPS 2025</p>
+    <p><em>On Submission</em></p>
     <p>
       <a href="https://arxiv.org/abs/2503.22764" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none; margin-right: 10px;">PAPER</a>
       <a href="https://github.com/Ming-K9/MFT" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none;">CODE</a>
@@ -58,7 +58,7 @@ Publications
       <strong><em>Mingyuan Zhang</em></strong>, 
       Yue Bai, Yi Xu, Chang Liu, and Yun Fu
     </p>
-    <p><em>On Submission</em>, ACMMM 2025</p>
+    <p><em>On Submission</em></p>
   </td>
 </tr>
 </table>
@@ -73,7 +73,7 @@ Publications
     <p>
       Yizhou Wang, Lingzhi Zhang, Yue Bai, Mang Tik Chiu, Zhengmian Hu, <strong><em>Mingyuan Zhang</em></strong>, Qihua Dong, Yu Yin, Sohrab Amirghodsi, Yun Fu
     </p>
-    <p><em>On Submission</em>, ACL 2025</p>
+    <p>ACL 2025</p>
   </td>
 </tr>
 </table>
