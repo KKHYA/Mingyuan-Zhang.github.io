@@ -149,7 +149,7 @@ Professional Service
 ======
 - **Conference Reviewer**
   
-  ACMMM 2024, AAAI 2025, UAI 2025
+  ACMMM 2024, AAAI 2025, UAI 2025, ACMMM 2025, NeurIPS 2025
 
 - **Journal Reviewer**
   - ACM Transactions on Knowledge Discovery from Data (TKDD)
