@@ -17,6 +17,7 @@ News
 ======
 <div style="border: 1px solid #eee; border-radius: 5px; height: 300px; overflow-y: auto; padding: 15px;">
   <ul style="padding-left: 20px; margin-top: 10px;">
+    <li><strong>12/2025</strong>: Publish our paper <a href="https://arxiv.org/abs/2512.23073">Rethinking Fine-Tuning: Unlocking Hidden Capabilities in Vision-Language Models</a> on arXiv.</li>
     <li><strong>06/2025</strong>: Start my Research Scientist Intern at Socure.</li>
     <li><strong>06/2025</strong>: Publish our paper <a href="https://arxiv.org/abs/2506.03408">Trajectory Prediction Meets Large Language Models: A Survey</a> on arXiv.</li>
     <li><strong>05/2025</strong>: Our paper <a href="https://arxiv.org/abs/2507.03038">Cautious Next Token Prediction</a> has been accepted by ACL 2025.</li>
@@ -74,17 +75,35 @@ Publications
 <table style="border: none; width: 100%; margin-bottom: 30px;">
 <tr>
   <td style="width: 30%; vertical-align: top; border: none; padding-right: 20px;">
-    <img src="images/taxonomy.png" style="width: 100%; margin-top: 0;">
+    <img src="images/CNTP_Teasor.png" style="width: 100%; margin-top: 0;">
   </td>
   <td style="vertical-align: top; border: none; padding-top: 0;">
-    <h3 style="margin-top: 0;">Trajectory Prediction Meets Large Language Models: A Survey</h3>
+    <h3 style="margin-top: 0;">Cautious Next Token Prediction</h3>
     <p>
-      Yi Xu, Ruining Yang, Yitian Zhang, Yizhou Wang, Jianglin Lu, <strong><em>Mingyuan Zhang</em></strong>, Lili Su, and Yun Fu
+      Yizhou Wang, Lingzhi Zhang, Yue Bai, Mang Tik Chiu, Zhengmian Hu, <strong><em>Mingyuan Zhang</em></strong>, Qihua Dong, Yu Yin, Sohrab Amirghodsi, Yun Fu
+    </p>
+    <p>ACL 2025</p>
+    <p>
+      <a href="https://arxiv.org/abs/2507.03038" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none; margin-right: 10px;">PAPER</a>
+      <a href="https://github.com/wyzjack/CNTP" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none;">CODE</a>
+    </p>
+  </td>
+</tr>
+</table>
+
+<table style="border: none; width: 100%; margin-bottom: 30px;">
+<tr>
+  <td style="width: 30%; vertical-align: top; border: none; padding-right: 20px;">
+    <img src="images/S_MFT_Teasor.png" style="width: 100%; margin-top: 0;">
+  </td>
+  <td style="vertical-align: top; border: none; padding-top: 0;">
+    <h3 style="margin-top: 0;">Rethinking Fine-Tuning: Unlocking Hidden Capabilities in Vision-Language Models</h3>
+    <p>
+      <strong><em>Mingyuan Zhang</em></strong>, Yue Bai, Yifan Wang, Yiyang Huang, and Yun Fu
     </p>
     <p><em>On Submission</em></p>
     <p>
-      <a href="https://arxiv.org/abs/2506.03408" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none; margin-right: 10px;">PAPER</a>
-      <a href="https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none;">CODE</a>
+      <a href="https://arxiv.org/abs/2512.23073" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none; margin-right: 10px;">PAPER</a>
     </p>
   </td>
 </tr>
@@ -127,17 +146,17 @@ Publications
 <table style="border: none; width: 100%; margin-bottom: 30px;">
 <tr>
   <td style="width: 30%; vertical-align: top; border: none; padding-right: 20px;">
-    <img src="images/CNTP_Teasor.png" style="width: 100%; margin-top: 0;">
+    <img src="images/taxonomy.png" style="width: 100%; margin-top: 0;">
   </td>
   <td style="vertical-align: top; border: none; padding-top: 0;">
-    <h3 style="margin-top: 0;">Cautious Next Token Prediction</h3>
+    <h3 style="margin-top: 0;">Trajectory Prediction Meets Large Language Models: A Survey</h3>
     <p>
-      Yizhou Wang, Lingzhi Zhang, Yue Bai, Mang Tik Chiu, Zhengmian Hu, <strong><em>Mingyuan Zhang</em></strong>, Qihua Dong, Yu Yin, Sohrab Amirghodsi, Yun Fu
+      Yi Xu, Ruining Yang, Yitian Zhang, Yizhou Wang, Jianglin Lu, <strong><em>Mingyuan Zhang</em></strong>, Lili Su, and Yun Fu
     </p>
-    <p>ACL 2025</p>
+    <p><em>On Submission</em></p>
     <p>
-      <a href="https://arxiv.org/abs/2507.03038" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none; margin-right: 10px;">PAPER</a>
-      <a href="https://github.com/wyzjack/CNTP" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none;">CODE</a>
+      <a href="https://arxiv.org/abs/2506.03408" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none; margin-right: 10px;">PAPER</a>
+      <a href="https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers" style="display: inline-block; background-color: #000; color: #fff; padding: 3px 10px; text-decoration: none;">CODE</a>
     </p>
   </td>
 </tr>
