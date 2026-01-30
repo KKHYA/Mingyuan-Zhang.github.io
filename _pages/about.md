@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. candidate in the [SMILELab](https://fulab.sites.northeastern.edu/) at Northeastern University, advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/). I received my M.S. degree from Northeastern University and B.S. degree from Xidian University in Computer Engineering and Telecommunication Engineering, respectively.
+I am a third-year Ph.D. candidate in the [SMILELab](https://fulab.sites.northeastern.edu/) at Northeastern University, advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/). I received my M.S. degree from Northeastern University and B.S. degree from Xidian University in Computer Engineering and Telecommunication Engineering, respectively.
 
-My research interests lie at the intersection of **Computer Vision, Sparse Network Training, Large Language Models (LLMs), and Multimodal Learning**. I am passionate about building scalable and interpretable AI systems, and I am always open to collaboration.
+My research interests lie at the intersection of **Efficiency, Foudation Models, Multimodal Learning, Computer Vision, and Sparse Network Training**. I am passionate about building scalable and interpretable AI systems, and I am always open to collaboration.
 
 <br/><br/>
 
