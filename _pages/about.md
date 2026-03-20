@@ -151,6 +151,32 @@ Experience
 <table style="border:none; width:100%; margin-bottom:12px;">
 <tr>
   <td style="width:64px; vertical-align:top; border:none; padding-right:12px;">
+    <img src="images/neusoft_logo.jfif" style="width:60px;">
+  </td>
+  <td style="vertical-align:top; border:none;">
+    <strong>Neusoft Corporation</strong><br>
+    Software Engineering, Jul. 2020 - Aug. 2020<br>
+  </td>
+</tr>
+</table>
+
+<table style="border:none; width:100%; margin-bottom:12px;">
+<tr>
+  <td style="width:64px; vertical-align:top; border:none; padding-right:12px;">
+    <img src="images/Southeast_University_logo.png" style="width:60px;">
+  </td>
+  <td style="vertical-align:top; border:none;">
+    <strong>Southeast University, Nanjing, China</strong><br>
+    Research Assistant, Jun. 2019 - Aug. 2019<br>
+    Supervisor: Prof. Fengqi Si<br>
+    Focus Areas: Environmental Modeling, Multimodal Data Fusion
+  </td>
+</tr>
+</table>
+
+<table style="border:none; width:100%; margin-bottom:12px;">
+<tr>
+  <td style="width:64px; vertical-align:top; border:none; padding-right:12px;">
     <img src="images/NU_logo.png" style="width:60px;">
   </td>
   <td style="vertical-align:top; border:none;">
@@ -172,20 +198,6 @@ Experience
     Master Student, Sep. 2021 - Dec. 2022<br>
     Supervisor: Prof. Yun Raymond Fu<br>
     Concentration: Computer Vision, Machine Learning, and Algorithm
-  </td>
-</tr>
-</table>
-
-<table style="border:none; width:100%; margin-bottom:12px;">
-<tr>
-  <td style="width:64px; vertical-align:top; border:none; padding-right:12px;">
-    <img src="images/Southeast_University_logo.png" style="width:60px;">
-  </td>
-  <td style="vertical-align:top; border:none;">
-    <strong>Southeast University, Nanjing, China</strong><br>
-    Research Assistant, Jun. 2019 - Aug. 2019<br>
-    Supervisor: Prof. Fengqi Si<br>
-    Focus Areas: Environmental Modeling, Multimodal Data Fusion
   </td>
 </tr>
 </table>
