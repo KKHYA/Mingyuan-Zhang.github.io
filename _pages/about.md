@@ -155,7 +155,7 @@ Experience
   </td>
   <td style="vertical-align:top; border:none;">
     <strong>Neusoft Corporation</strong><br>
-    Software Engineering, Jul. 2020 - Aug. 2020<br>
+    Software Engineering Intern, Jul. 2020 - Aug. 2020<br>
   </td>
 </tr>
 </table>
