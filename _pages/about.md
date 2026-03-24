@@ -230,7 +230,7 @@ Academic Service
 
 **Reviewer**
 - Conference: ACMMM 2024, AAAI 2025, UAI 2025, ACMMM 2025, NeurIPS 2025
-- Journal: TKDD
+- Journal: TKDD, TPAMI
 
 **Teaching**
 - TA of EECE5639 Computer Vision, Spring 2026, NEU BOS
