@@ -11,13 +11,13 @@ redirect_from:
 
 I am a third-year Ph.D. candidate in the [SmileLab](https://fulab.sites.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/), advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) (Member of Academia Europaea and the European Academy of Sciences and Arts; Fellow of ACM, AAAI, AAAS, IEEE, and the National Academy of Inventors).
 
-My research advances **efficient and reliable foundation models**, including **Parameter-Efficient Fine-Tuning, Model Efficiency, Multimodal Learning, Pruning & Distillation**. I am particularly interested in bridging these areas to enable scalable adaptation of large language and vision-language models, trustworthy multimodal reasoning, and AI Agents.
+My research advances **efficient and reliable foundation models**, including **Fine-Tuning, Multimodal Learning, Reasoning**. I am particularly interested in bridging these areas to enable scalable adaptation of LLMs/VLMs,Agents and Embodied AI.
 
 Prior to my Ph.D., I obtained my M.S. degree in Electrical and Computer Engineering from [Northeastern University](https://www.northeastern.edu/) and my B.S. degree in Communication Engineering from [Xidian University](https://en.xidian.edu.cn/) (XDU). I was also a visiting student at [Southeast University](https://www.seu.edu.cn/english/).
 
-Beyond academia, I have industry experience in applied AI research. I was a **Research Intern** at [Socure](https://www.socure.com/) (Summer 2025), working on **low-level vision**. Previously, I was an **Applied Scientist Intern** at [AInnovationLabs](https://ainnovationlabs.com/) (Dec 2022 – Dec 2024), focusing on **healthcare AI, 3D human pose estimation, and pedestrian re-identification**.
+Beyond academia, I have industry experience in applied AI research. I am a **Applied Scientist Intern** at Amazon's Industrial Robotics Group (IRG) in this summer, working on **long-horizon robot tasks with world model and reasoning**. Previously, I was a **Research Intern** at [Socure](https://www.socure.com/) (Summer 2025), working on **low-level vision**. I also worked as an **Applied Scientist Intern** at [AInnovationLabs](https://ainnovationlabs.com/) (Dec 2022 – Dec 2024), focusing on **healthcare AI, 3D human pose estimation, and pedestrian re-identification**.
 
-**<span style="color: #b31b1b;">Open to exciting research collaborations and actively seeking internship opportunities for Summer/Fall 2026. Feel free to reach out!</span>** 🔥
+**<span style="color: #b31b1b;">Open to exciting research collaborations and actively seeking internship opportunities for Fall 2026 or Spring/Summer 2027. Feel free to reach out!</span>** 🔥
 
 <br>
 
@@ -25,6 +25,7 @@ News
 ======
 <div style="max-height: 180px; overflow-y: auto; padding: 0;">
 <table style="width:100%; border-collapse:collapse; border:none;">
+  <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">05/2026</td><td style="padding:3px 0; border:none;">Started research internship at <strong>Amazon IRG</strong>.</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">01/2026</td><td style="padding:3px 0; border:none;">Started as TA for EECE5639 Computer Vision, Spring 2026.</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">12/2025</td><td style="padding:3px 0; border:none;">Preprint: <em>Rethinking Fine-Tuning: Unlocking Hidden Capabilities in VLMs</em>.</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">06/2025</td><td style="padding:3px 0; border:none;">Started research internship at <strong>Socure</strong>.</td></tr>
@@ -87,7 +88,7 @@ Selected Publications
 </tr>
 </table>
 
-<table style="border: none; width: 100%; margin-bottom: 20px;">
+<!-- <table style="border: none; width: 100%; margin-bottom: 20px;">
 <tr>
   <td style="width: 160px; vertical-align: top; border: none; padding-right: 15px;">
     <img src="images/taxonomy.png" style="width: 100%; border-radius: 6px;">
@@ -100,7 +101,7 @@ Selected Publications
     <a href="https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers" style="display:inline-block; margin-top:4px; padding:2px 8px; background:#111; color:#fff; text-decoration:none; border-radius:3px; font-size:0.85em;">Code</a>
   </td>
 </tr>
-</table>
+</table> -->
 
 <!-- <table style="border: none; width: 100%; margin-bottom: 20px;">
 <tr>
@@ -123,12 +124,28 @@ Experience
 <table style="border:none; width:100%; margin-bottom:12px;">
 <tr>
   <td style="width:64px; vertical-align:top; border:none; padding-right:12px;">
+    <img src="images/amazon_logo.png" style="width:60px;">
+  </td>
+  <td style="vertical-align:top; border:none;">
+    <strong>Amazon IRG</strong><br>
+    Applied Scientist Intern, May. 2026 - Aug. 2026<br>
+    Mentor: Dr. Kai Gao<br>
+    Manager: Dr. Jeroen van Baar<br>
+    Focus Areas: Long-horizon robot task, World Model with reasoning
+  </td>
+</tr>
+</table>
+
+<table style="border:none; width:100%; margin-bottom:12px;">
+<tr>
+  <td style="width:64px; vertical-align:top; border:none; padding-right:12px;">
     <img src="images/socure_logo.png" style="width:60px;">
   </td>
   <td style="vertical-align:top; border:none;">
     <strong>Socure</strong><br>
     Research Intern, Jun. 2025 - Aug. 2025<br>
-    Mentor: Weiqiang Mu<br>
+    Mentor: Dr. Weiqiang Mu<br>
+    Manager: Dr. Feng Xiao<br>
     Focus Areas: Low-Level Vision
   </td>
 </tr>
