@@ -276,6 +276,6 @@ Visitor Map
 ======
 <p align="center">
   <a href="https://mapmyvisitors.com/web/1c8sc" title="Visit tracker">
-    <img src="https://mapmyvisitors.com/map.png?d=xmMZPIY4d0FVwBb3l8bnjisn7wQrHAAJMiBjoujB-KM&cl=ffffff" alt="Visitor map" style="max-width: 460px; width: 100%; height: auto;" />
+    <img src="https://mapmyvisitors.com/map.png?d=xmMZPIY4d0FVwBb3l8bnjisn7wQrHAAJMiBjoujB-KM&cl=ffffff&w=920" alt="Visitor map" style="max-width: 460px; width: 100%; height: auto;" />
   </a>
 </p>
