@@ -50,7 +50,7 @@ Selected Publications
 <table style="border: none; width: 100%; margin-bottom: 20px;">
 <tr>
   <td style="width: 160px; vertical-align: top; border: none; padding-right: 15px;">
-    <img src="images/normal_moe_vs_maskerade_reference.pdf" style="width: 100%; border-radius: 6px;">
+    <img src="images/normal_moe_vs_maskerade_reference.png" style="width: 100%; border-radius: 6px;">
   </td>
   <td style="vertical-align: top; border: none;">
     <strong>MASKerade: Token-Routed Mask Experts for Dense-to-MoE Upcycling</strong><br>
@@ -275,7 +275,7 @@ Academic Service
 Visitor Map
 ======
 <p align="center">
-  <a href="https://clustrmaps.com/site/1c5nj" title="Visit tracker">
-    <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=my0X9XIC6PWfAjyxjrZbhwC3lpkrvsbY9-LYNKmDlew" alt="Visitor map" style="max-width: 460px; width: 100%; height: auto;" />
+  <a href="https://mapmyvisitors.com/web/1c8sc" title="Visit tracker">
+    <img src="https://mapmyvisitors.com/map.png?d=xmMZPIY4d0FVwBb3l8bnjisn7wQrHAAJMiBjoujB-KM&cl=ffffff" alt="Visitor map" style="max-width: 460px; width: 100%; height: auto;" />
   </a>
 </p>
