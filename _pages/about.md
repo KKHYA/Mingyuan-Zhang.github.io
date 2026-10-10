@@ -9,15 +9,15 @@ redirect_from:
 
 <style>.page__content h1 { font-size: 1.25rem; } .page__content p, .page__content li, .page__content td { font-size: 0.9rem; line-height: 1.6; }</style>
 
-I am a third-year Ph.D. candidate in the [SmileLab](https://fulab.sites.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/), advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) (Member of Academia Europaea and the European Academy of Sciences and Arts; Fellow of ACM, AAAI, AAAS, IEEE, and the National Academy of Inventors).
+I am a fourth-year Ph.D. candidate in the [SmileLab](https://fulab.sites.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/), advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) (Member of Academia Europaea and the European Academy of Sciences and Arts; Fellow of ACM, AAAI, AAAS, IEEE, and the National Academy of Inventors).
 
-My research advances **efficient and reliable foundation models**, including **Fine-Tuning, Multimodal Learning, Reasoning**. I am particularly interested in bridging these areas to enable scalable adaptation of LLMs/VLMs,Agents and Embodied AI.
+My research advances **efficient and reliable foundation models**, including **Fine-Tuning, Multimodal Learning, Reasoning**. I am particularly interested in bridging these areas to enable scalable adaptation of LLMs/VLMs, Agents and Embodied AI.
 
 Prior to my Ph.D., I obtained my M.S. degree in Electrical and Computer Engineering from [Northeastern University](https://www.northeastern.edu/) and my B.S. degree in Communication Engineering from [Xidian University](https://en.xidian.edu.cn/) (XDU). I was also a visiting student at [Southeast University](https://www.seu.edu.cn/english/).
 
-Beyond academia, I have industry experience in applied AI research. I am a **Applied Scientist Intern** at Amazon's Industrial Robotics Group (IRG) in this summer, working on **long-horizon robot tasks with world model and reasoning**. Previously, I was a **Research Intern** at [Socure](https://www.socure.com/) (Summer 2025), working on **low-level vision**. I also worked as an **Applied Scientist Intern** at [AInnovationLabs](https://ainnovationlabs.com/) (Dec 2022 – Dec 2024), focusing on **healthcare AI, 3D human pose estimation, and pedestrian re-identification**.
+Beyond academia, I have industry experience in applied AI research. I was a **Applied Scientist Intern** at Amazon's Industrial Robotics Group (IRG) (Summer 2026), working on **long-horizon robot tasks with world model and reasoning**. Previously, I was a **Research Intern** at [Socure](https://www.socure.com/) (Summer 2025), working on **low-level vision**. I also worked as an **Applied Scientist** at [AInnovationLabs](https://ainnovationlabs.com/) (Dec 2022 – Dec 2024), focusing on **healthcare AI and human pose estimation**.
 
-**<span style="color: #b31b1b;">Open to exciting research collaborations and actively seeking internship opportunities for Fall 2026 or Spring/Summer 2027. Feel free to reach out!</span>** 🔥
+**<span style="color: #b31b1b;">Open to exciting research collaborations and actively seeking internship opportunities for Winter/Spring/Summer 2027. Feel free to reach out!</span>** 🔥
 
 <br>
 
@@ -25,15 +25,18 @@ News
 ======
 <div style="max-height: 180px; overflow-y: auto; padding: 0;">
 <table style="width:100%; border-collapse:collapse; border:none;">
+  <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">09/2026</td><td style="padding:3px 0; border:none;">Our paper <em>GlanceWAM: Sparse Test-Time Imagination for World-Action Models</em> has been accepted and the Best Award Honorable Mention to <strong>IROS 2026 RoBoWoMo Workshop</strong>. 🚀</td></tr>
+  <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">08/2026</td><td style="padding:3px 0; border:none;">Our paper <em>Random Sparse Networks Training with Sharpness-Aware Regularization</em> has been accepted to <strong>TPAMI</strong>. 🚀</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">05/2026</td><td style="padding:3px 0; border:none;">Started research internship at <strong>Amazon IRG</strong>.</td></tr>
+  <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">04/2026</td><td style="padding:3px 0; border:none;">Our paper <em>Distorted or Fabricated? A Survey on Hallucination in Video LLMs</em> has been accepted to <strong>ACL 2026</strong>. 🚀</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">01/2026</td><td style="padding:3px 0; border:none;">Started as TA for EECE5639 Computer Vision, Spring 2026.</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">12/2025</td><td style="padding:3px 0; border:none;">Preprint: <em>Rethinking Fine-Tuning: Unlocking Hidden Capabilities in VLMs</em>.</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">06/2025</td><td style="padding:3px 0; border:none;">Started research internship at <strong>Socure</strong>.</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">06/2025</td><td style="padding:3px 0; border:none;">Preprint: <em>Trajectory Prediction Meets Large Language Models: A Survey</em>.</td></tr>
-  <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">05/2025</td><td style="padding:3px 0; border:none;"><em>Cautious Next Token Prediction</em> accepted to <strong>ACL 2025</strong>.</td></tr>
+  <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">05/2025</td><td style="padding:3px 0; border:none;">Our paper <em>Cautious Next Token Prediction</em> has been accepted to <strong>ACL 2025</strong>. 🚀</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">03/2025</td><td style="padding:3px 0; border:none;">Preprint: <em>Boosting LLMs with Mask Fine-Tuning</em>.</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">12/2024</td><td style="padding:3px 0; border:none;">Passed Ph.D. qualifying exam and advanced to candidacy.</td></tr>
-  <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">12/2022</td><td style="padding:3px 0; border:none;">Started Applied Scientist Intern at <strong>AInnovationLabs</strong>.</td></tr>
+  <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">12/2022</td><td style="padding:3px 0; border:none;">Started Applied Scientist at <strong>AInnovationLabs</strong>.</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">09/2023</td><td style="padding:3px 0; border:none;">Joined SMILELab at NEU as a Ph.D. student.</td></tr>
   <tr><td style="white-space:nowrap; padding:3px 12px 3px 0; border:none; font-weight:600;">09/2021</td><td style="padding:3px 0; border:none;">Started M.S. at Northeastern University.</td></tr>
 </table>
@@ -43,6 +46,21 @@ News
 
 Selected Publications
 ======
+
+<table style="border: none; width: 100%; margin-bottom: 20px;">
+<tr>
+  <td style="width: 160px; vertical-align: top; border: none; padding-right: 15px;">
+    <img src="images/normal_moe_vs_maskerade_reference.pdf" style="width: 100%; border-radius: 6px;">
+  </td>
+  <td style="vertical-align: top; border: none;">
+    <strong>MASKerade: Token-Routed Mask Experts for Dense-to-MoE Upcycling</strong><br>
+    <strong>Mingyuan Zhang</strong>, Yue Bai, Zhongruo Wang, Yupin Huang, Yiyang Huang, Hailing Wang, Huimin Zeng, and Yun Fu<br>
+    Preprint, 2025<br>
+    <a href="https://arxiv.org/abs/2503.22764" style="display:inline-block; margin-top:4px; padding:2px 8px; background:#111; color:#fff; text-decoration:none; border-radius:3px; font-size:0.85em;">Paper</a>
+    <a href="https://github.com/Ming-K9/MFT" style="display:inline-block; margin-top:4px; padding:2px 8px; background:#111; color:#fff; text-decoration:none; border-radius:3px; font-size:0.85em;">Code</a>
+  </td>
+</tr>
+</table>
 
 <table style="border: none; width: 100%; margin-bottom: 20px;">
 <tr>
@@ -73,7 +91,7 @@ Selected Publications
 </tr>
 </table>
 
-<table style="border: none; width: 100%; margin-bottom: 20px;">
+<!-- <table style="border: none; width: 100%; margin-bottom: 20px;">
 <tr>
   <td style="width: 160px; vertical-align: top; border: none; padding-right: 15px;">
     <img src="images/CNTP_Teasor.png" style="width: 100%; border-radius: 6px;">
@@ -86,7 +104,7 @@ Selected Publications
     <a href="https://github.com/wyzjack/CNTP" style="display:inline-block; margin-top:4px; padding:2px 8px; background:#111; color:#fff; text-decoration:none; border-radius:3px; font-size:0.85em;">Code</a>
   </td>
 </tr>
-</table>
+</table> -->
 
 <!-- <table style="border: none; width: 100%; margin-bottom: 20px;">
 <tr>
@@ -158,8 +176,8 @@ Experience
   </td>
   <td style="vertical-align:top; border:none;">
     <strong>AInnovationLabs</strong><br>
-    Applied Scientist Intern, Dec. 2022 - Dec. 2024<br>
-    Mentor: Prof. Yun Raymond Fu<br>
+    Applied Scientist, Dec. 2022 - Dec. 2024<br>
+    Manager: Prof. Yun Raymond Fu<br>
     Focus Areas: 3D Human Pose Estimation, Healthcare AI, Pedestrian Re-ID
   </td>
 </tr>
@@ -246,7 +264,7 @@ Academic Service
 ======
 
 **Reviewer**
-- Conference: ACMMM 2024, AAAI 2025, UAI 2025, ACMMM 2025, NeurIPS 2025
+- Conference: ACMMM 2024, AAAI 2025, UAI 2025, ACMMM 2025, NeurIPS 2025, IROS 2027
 - Journal: TKDD, TPAMI
 
 **Teaching**
