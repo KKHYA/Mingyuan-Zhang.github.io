@@ -142,6 +142,20 @@ Experience
 <table style="border:none; width:100%; margin-bottom:12px;">
 <tr>
   <td style="width:64px; vertical-align:top; border:none; padding-right:12px;">
+    <img src="images/NU_logo.png" style="width:60px;">
+  </td>
+  <td style="vertical-align:top; border:none;">
+    <strong>SMILELab, Northeastern University, Boston, MA</strong><br>
+    Graduate Student, Sep. 2023 - Present<br>
+    Supervisor: Prof. Yun Raymond Fu<br>
+    Focus Areas: Foundation Models, Model Efficiency, Multimodal Learning, Pruning, AI Agents, Generative AI
+  </td>
+</tr>
+</table>
+
+<table style="border:none; width:100%; margin-bottom:12px;">
+<tr>
+  <td style="width:64px; vertical-align:top; border:none; padding-right:12px;">
     <img src="images/amazon_logo.png" style="width:60px;">
   </td>
   <td style="vertical-align:top; border:none;">
@@ -205,20 +219,6 @@ Experience
     Research Assistant, Jun. 2019 - Aug. 2019<br>
     Supervisor: Prof. Fengqi Si<br>
     Focus Areas: Environmental Modeling, Multimodal Data Fusion
-  </td>
-</tr>
-</table>
-
-<table style="border:none; width:100%; margin-bottom:12px;">
-<tr>
-  <td style="width:64px; vertical-align:top; border:none; padding-right:12px;">
-    <img src="images/NU_logo.png" style="width:60px;">
-  </td>
-  <td style="vertical-align:top; border:none;">
-    <strong>SMILELab, Northeastern University, Boston, MA</strong><br>
-    Graduate Student, Sep. 2023 - Present<br>
-    Supervisor: Prof. Yun Raymond Fu<br>
-    Focus Areas: Foundation Models, Model Efficiency, Multimodal Learning, Pruning, AI Agents, Generative AI
   </td>
 </tr>
 </table>
