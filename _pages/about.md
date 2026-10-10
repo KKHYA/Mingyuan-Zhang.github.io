@@ -57,7 +57,7 @@ Selected Publications
     <strong>Mingyuan Zhang</strong>, Yue Bai, Zhongruo Wang, Yupin Huang, Yiyang Huang, Hailing Wang, Huimin Zeng, and Yun Fu<br>
     Preprint, 2025<br>
     <a href="https://arxiv.org/abs/2503.22764" style="display:inline-block; margin-top:4px; padding:2px 8px; background:#111; color:#fff; text-decoration:none; border-radius:3px; font-size:0.85em;">Paper</a>
-    <a href="https://github.com/Ming-K9/MFT" style="display:inline-block; margin-top:4px; padding:2px 8px; background:#111; color:#fff; text-decoration:none; border-radius:3px; font-size:0.85em;">Code</a>
+    <!-- <a href="https://github.com/Ming-K9/MFT" style="display:inline-block; margin-top:4px; padding:2px 8px; background:#111; color:#fff; text-decoration:none; border-radius:3px; font-size:0.85em;">Code</a> -->
   </td>
 </tr>
 </table>
