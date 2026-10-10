@@ -148,7 +148,7 @@ Experience
     <strong>SMILELab, Northeastern University, Boston, MA</strong><br>
     Graduate Student, Sep. 2023 - Present<br>
     Supervisor: Prof. Yun Raymond Fu<br>
-    Focus Areas: Foundation Models, Model Efficiency, Multimodal Learning, Pruning, AI Agents, Generative AI
+    Focus Areas: Foundation Model, Efficiency, Embodied AI, World Model, Agents, Generative Model
   </td>
 </tr>
 </table>
