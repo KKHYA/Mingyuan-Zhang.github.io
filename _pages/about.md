@@ -178,7 +178,7 @@ Experience
     Research Intern, Jun. 2025 - Aug. 2025<br>
     Mentor: Dr. Weiqiang Mu<br>
     Manager: Dr. Feng Xiao<br>
-    Focus Areas: Low-Level Vision
+    Focus Areas: Low-level Vision
   </td>
 </tr>
 </table>
