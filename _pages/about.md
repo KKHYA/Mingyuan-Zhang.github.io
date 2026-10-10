@@ -255,7 +255,7 @@ Experience
 Selected Honors & Awards
 ======
 
-- Honor of Excellent Students Leader, Xidian University, 2020
+- **Honor of Excellent Students Leader**, Xidian University, 2020
 - Shaanxi Provincial **Bronze Medal**, 5th Internet+ Innovation and Entrepreneurship Competition
 
 <br>
